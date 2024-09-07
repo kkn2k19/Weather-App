@@ -2,6 +2,12 @@
 
 The Weather App is a dynamic web application built using HTML, CSS, and JavaScript, designed to provide users with real-time weather information and a 5-day forecast for any specified location. It leverages the OpenWeatherMap API to fetch and display current weather conditions, air quality index (AQI), and detailed forecasts.
 
+## Links
+
+- [Try Now](https://kkn2k19.github.io/Weather-App/)
+- [Repository](https://github.com/kkn2k19/Weather-App)
+
+
 ## Features
 
 - **Real-time Weather Information**: Displays the current temperature, weather conditions, humidity, pressure, wind speed, and visibility for the selected location.
@@ -21,12 +27,12 @@ The Weather App is a dynamic web application built using HTML, CSS, and JavaScri
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/chandan0p/LearnFusion_Project3_Weather-App.git
+    git clone https://github.com/kkn2k19/Weather-App.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd LearnFusion_Project3_Weather-App
+    cd Weather-App
     ```
 
 3. Open `index.html` in your web browser to view and use the application.
@@ -54,3 +60,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - This project was created to demonstrate the use of the OpenWeatherMap API and basic web development with HTML, CSS, and JavaScript.
+
